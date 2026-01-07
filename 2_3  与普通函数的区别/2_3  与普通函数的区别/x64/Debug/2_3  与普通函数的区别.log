@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\CPPproject\2_3  与普通函数的区别\main.cpp(27,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+D:\CPPproject\2_3  与普通函数的区别\main.cpp(27,22): warning C4244:         with
+D:\CPPproject\2_3  与普通函数的区别\main.cpp(27,22): warning C4244:         [
+D:\CPPproject\2_3  与普通函数的区别\main.cpp(27,22): warning C4244:             T=int
+D:\CPPproject\2_3  与普通函数的区别\main.cpp(27,22): warning C4244:         ]
+  2_3  与普通函数的区别.vcxproj -> D:\CPPproject\2_3  与普通函数的区别\x64\Debug\2_3  与普通函数的区别.exe

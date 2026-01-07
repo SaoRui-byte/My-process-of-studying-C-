@@ -1,0 +1,37 @@
+#include<iostream>
+#include<set>
+#include<vector>
+using namespace std;
+
+void printSet(const set<int>& s)
+{
+	for (set<int>::const_iterator it = s.begin(); it != s.end(); it++)
+	{
+		cout << *it << " ";
+	}
+	cout << endl;
+}
+
+int main()
+{
+	set<int> s;
+	//O(logn)
+	s.insert(1);
+	s.insert(2);
+	s.insert(3);
+	s.insert(4);
+	s.insert(5);
+
+	printSet(s);
+
+	s.insert(8);
+	s.insert(7);
+	s.insert(9);
+
+	printSet(s);
+
+	vector<int> v = { 0,5,4,2,1 };
+	s.insert(v.begin(), v.end());
+	printSet(s);
+	return 0;
+}

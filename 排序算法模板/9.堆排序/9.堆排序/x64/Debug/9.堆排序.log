@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\CPPproject\排序算法模板\9.堆排序\main.cpp(51,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\CPPproject\排序算法模板\9.堆排序\main.cpp(53,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\CPPproject\排序算法模板\9.堆排序\main.cpp(55,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  9.堆排序.vcxproj -> D:\CPPproject\排序算法模板\9.堆排序\x64\Debug\9.堆排序.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CPPproject\排序算法模板\1.选择排序\main.cpp(16,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1.选择排序.vcxproj -> D:\CPPproject\排序算法模板\1.选择排序\x64\Debug\1.选择排序.exe

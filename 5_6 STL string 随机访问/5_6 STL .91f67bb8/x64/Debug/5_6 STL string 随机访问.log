@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CPPproject\5_6 STL string 随机访问\main.cpp(9,5): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+D:\CPPproject\5_6 STL string 随机访问\main.cpp(10,4): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  5_6 STL string 随机访问.vcxproj -> D:\CPPproject\5_6 STL string 随机访问\x64\Debug\5_6 STL string 随机访问.exe

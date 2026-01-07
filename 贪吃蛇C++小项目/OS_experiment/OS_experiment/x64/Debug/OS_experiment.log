@@ -1,0 +1,7 @@
+﻿  main.c
+D:\CPPproject\贪吃蛇C++小项目\OS_experiment\main.c(74,12): warning C4101: “j”: 未引用的局部变量
+D:\CPPproject\贪吃蛇C++小项目\OS_experiment\main.c(174,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\CPPproject\贪吃蛇C++小项目\OS_experiment\main.c(467,45): warning C4101: “strtext”: 未引用的局部变量
+D:\CPPproject\贪吃蛇C++小项目\OS_experiment\main.c(658,12): warning C4101: “j”: 未引用的局部变量
+D:\CPPproject\贪吃蛇C++小项目\OS_experiment\main.c(658,18): warning C4101: “flag”: 未引用的局部变量
+  OS_experiment.vcxproj -> D:\CPPproject\贪吃蛇C++小项目\OS_experiment\x64\Debug\OS_experiment.exe

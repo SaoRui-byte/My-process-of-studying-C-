@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CPPproject\\gametest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026B9C23-4F3C-43C1-AE49-3A13E3F99DB8}|gametest.vcxproj|D:\\CPPproject\\gametest\\code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{026B9C23-4F3C-43C1-AE49-3A13E3F99DB8}|gametest.vcxproj|solutionrelative:code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code.cpp",
+              "DocumentMoniker": "D:\\CPPproject\\gametest\\code.cpp",
+              "RelativeDocumentMoniker": "code.cpp",
+              "ToolTip": "D:\\CPPproject\\gametest\\code.cpp",
+              "RelativeToolTip": "code.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T02:05:34.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
